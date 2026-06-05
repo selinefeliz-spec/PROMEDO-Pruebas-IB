@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-eye-open</name>
+   <tag></tag>
+   <elementGuidId>efaf23b7-1067-4aa6-a76c-a7c354acd8c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#showAdditionalInfoExpress i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'showAdditionalInfoExpress']//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cb5c6be3-79c8-455d-9b1b-3b4e50bb1c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-eye-open</value>
+      <webElementGuid>a7aaf2f2-ae1d-4170-9ab8-271e0d46e513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-46f6e5c6c2212dc6d30bff9e1e369960</value>
+      <webElementGuid>9b59d13c-05dc-499f-a9bd-58d468f4cd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'showAdditionalInfoExpress']//i</value>
+      <webElementGuid>5ea412a2-ba4e-4730-bd9c-02bc370fb0d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'showAdditionalInfoExpress']//i</value>
+      <webElementGuid>04f91494-e603-46dd-b00b-4c6760eb754b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

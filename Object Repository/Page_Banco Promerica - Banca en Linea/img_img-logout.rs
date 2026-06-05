@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img-logout</name>
+   <tag></tag>
+   <elementGuidId>3395c870-e3ab-45ee-8b38-b8473ac17cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#img-logout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'img-logout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Cerrar Sesión&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b12cb4b8-3b33-41ed-87bf-828c84eeaa22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>img-logout</value>
+      <webElementGuid>fb2e67ec-3043-43f8-9c8f-14db37bdf160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/onlinebanking/Content/img/logout.png</value>
+      <webElementGuid>0a828f5e-93c8-4446-a47f-b78dc77677b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-782954b5c67301ef4547308fb3bacf32</value>
+      <webElementGuid>142ca9b5-82c4-41e1-9793-141c5697883f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'img-logout']</value>
+      <webElementGuid>4a0c010b-a85c-4384-97f3-5bf80a51383b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'img-logout']</value>
+      <webElementGuid>dcd3be8e-df62-425c-b40f-95a2ba7d6e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'img-logout' and @src = '/onlinebanking/Content/img/logout.png']</value>
+      <webElementGuid>00ba41f7-a1b0-4557-a2bb-6603a2a58a1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

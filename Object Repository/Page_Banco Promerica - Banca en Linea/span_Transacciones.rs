@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transacciones</name>
+   <tag></tag>
+   <elementGuidId>29caeafc-acf5-4dae-b12d-ce336d4c3d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\#TRANSACTIONS&quot;] span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '#TRANSACTIONS']//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Transacciones&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>084a4b4c-5c4c-480c-afe9-5373868c7150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transacciones</value>
+      <webElementGuid>c66f727a-bc69-45e0-885b-6f3de236eb9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f91b353edf2ae0b8415df4a80d6ce89b</value>
+      <webElementGuid>57fa1a5e-089c-408d-ad46-87f6a663bd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '#TRANSACTIONS']//span</value>
+      <webElementGuid>e200aff0-ca9f-4b3a-810e-f9f4b45e88fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '#TRANSACTIONS']//span</value>
+      <webElementGuid>caece055-fa4c-4849-ba00-472d1cb6a2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transacciones' or . = 'Transacciones')]</value>
+      <webElementGuid>64ca9d63-d970-42ba-b9a5-fc760cf30200</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

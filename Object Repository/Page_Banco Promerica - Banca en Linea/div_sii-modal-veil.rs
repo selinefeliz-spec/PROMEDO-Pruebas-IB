@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sii-modal-veil</name>
+   <tag></tag>
+   <elementGuidId>912b7f9d-e28b-46a0-b577-c2347ccbfa0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sii-modal-veil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'sii-modal-veil']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sii-modal-veil</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f4a50a5-e00e-4913-b35e-5c446cfabf0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sii-modal-veil</value>
+      <webElementGuid>35ad7bed-5e92-4d6c-ac7c-8c144b542f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-97acd60926c960e274e8c4d66c50ce2c</value>
+      <webElementGuid>f6150ed1-921b-4bea-a44f-5e6536aefb9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'sii-modal-veil']</value>
+      <webElementGuid>0b84fbff-dcd6-4b82-8687-531bad8de52d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'sii-modal-veil']</value>
+      <webElementGuid>8a7beef3-c3fc-457b-b850-95f77ac79aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'sii-modal-veil']</value>
+      <webElementGuid>ea8e9f74-94dc-46ff-8ae4-f7b57aa67cbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

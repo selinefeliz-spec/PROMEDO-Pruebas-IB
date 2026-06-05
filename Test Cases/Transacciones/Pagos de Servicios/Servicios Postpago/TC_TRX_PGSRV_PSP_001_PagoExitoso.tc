@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flujo de como se debe hacer un pago exitoso de un servicio agregado</description>
+   <name>TC_TRX_PGSRV_PSP_001_PagoExitoso</name>
+   <tag>TRX_PGSRV</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03c830b8-5645-4711-9428-78c094639fbd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36ce4630-9ca1-45d0-89d8-fd513a9b0eaa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>36ce4630-9ca1-45d0-89d8-fd513a9b0eaa</id>
+      <masked>false</masked>
+      <name>isMaximized</name>
+   </variable>
+</TestCaseEntity>

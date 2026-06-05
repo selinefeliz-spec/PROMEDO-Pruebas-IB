@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cerrar</name>
+   <tag></tag>
+   <elementGuidId>a720ecbe-b732-4214-9888-780d9e4a2054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@onclick = 'SII.ResetTimeout();$.get('/onlinebanking/Home/Ping');']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[onclick=&quot;SII\.ResetTimeout\(\)\;\$\.get\(\'\/onlinebanking\/Home\/Ping\'\)\;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#timeout-popup >> internal:text=&quot;Cerrar&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cbace139-01ac-4faf-a920-8fb3a72baf0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>SII.ResetTimeout();$.get('/onlinebanking/Home/Ping');</value>
+      <webElementGuid>4e9093b1-fc76-401b-8e9b-ba8a62bca6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>81409880-53aa-4f67-ab10-9150020fa285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>03398f92-fbe3-416d-9d71-1c913590381c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d6f8f7bd-32ae-4eda-849a-892158f0121b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar</value>
+      <webElementGuid>020bb9d8-69b2-4fae-9ae4-08090d71a0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c537c8918ce1c5a4efcf6bcab2ed6f0a</value>
+      <webElementGuid>1d149f86-a554-4fc3-b4bf-7c57dbed6716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@onclick = 'SII.ResetTimeout();$.get('/onlinebanking/Home/Ping');']</value>
+      <webElementGuid>7de7d080-4765-4a27-9d43-b95967b50ab7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@onclick = 'SII.ResetTimeout();$.get('/onlinebanking/Home/Ping');']</value>
+      <webElementGuid>00b80995-eeb5-4048-9dbf-34e96f0c8086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+      <webElementGuid>b79627c2-578a-49d2-8a76-fd97d5f28a4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

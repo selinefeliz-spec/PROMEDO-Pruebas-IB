@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cerrar_1</name>
+   <tag></tag>
+   <elementGuidId>7a8b8de6-4bf9-49ec-9dce-958868252e9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'sii-modal-error']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sii-modal-error .btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sii-modal-error >> internal:text=&quot;Cerrar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d73f4b7-1f4a-4f59-b29f-c4f2e7c7f132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>5dba2cfb-3829-4566-a909-ac4528367d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>7f483859-0153-473e-b4bd-b9a9c380c784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6fb69efb-7190-47de-9583-0d1914b1c3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar</value>
+      <webElementGuid>a175fe95-2e3b-413f-9917-f09c9f642f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f2f504dd1d0a3e683dd6975a11d19356</value>
+      <webElementGuid>8dcdb752-82d7-4764-81a5-4725ffb16b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'sii-modal-error']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>c7f67670-53cf-40ae-a6e9-02c8f88d2bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'sii-modal-error']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>4d0bc387-d928-43b7-ac1c-7f6a82d19ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+      <webElementGuid>7e703bc5-7f8a-4584-9d7f-cad510ae181a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

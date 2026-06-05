@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Categoria</name>
+   <tag></tag>
+   <elementGuidId>68691fa3-2d84-4bab-81a1-2b3420fb39c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PayExpressSelectedCategory</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'PayExpressSelectedCategory']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Categoria:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6b49bbe4-f26a-4282-9de8-e67593dee835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>fdaa611f-4058-48b8-bc78-9288291c66e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PayExpressSelectedCategory</value>
+      <webElementGuid>e6a27cdc-dc5c-4d99-8215-57d2cf68ae2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PayExpressSelectedCategory</value>
+      <webElementGuid>b6a381b5-0cc4-4d0e-ad5d-a06322f27c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Todas las Categorías
+Comunicaciones
+Servicios Prepagos
+Donaciones
+Infracciones
+Peajes
+Electricidad
+Acueductos
+Universidades
+Seguros
+Recargas
+</value>
+      <webElementGuid>25ca1178-bd43-4e4f-9393-cf72ffddcf08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-81684383a42a23afdb421ebab723d8a0</value>
+      <webElementGuid>8ae47b06-1600-45c0-8ff5-9183e0c65e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'PayExpressSelectedCategory']</value>
+      <webElementGuid>ce961d0c-b323-410f-b8b5-e4a2ae349da6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'PayExpressSelectedCategory']</value>
+      <webElementGuid>102f99a5-1df8-4358-91d8-dd662b2aeda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PayExpressSelectedCategory' and @name = 'PayExpressSelectedCategory' and (text() = 'Todas las Categorías
+Comunicaciones
+Servicios Prepagos
+Donaciones
+Infracciones
+Peajes
+Electricidad
+Acueductos
+Universidades
+Seguros
+Recargas
+' or . = 'Todas las Categorías
+Comunicaciones
+Servicios Prepagos
+Donaciones
+Infracciones
+Peajes
+Electricidad
+Acueductos
+Universidades
+Seguros
+Recargas
+')]</value>
+      <webElementGuid>50dc9205-6fc8-4021-adee-78c8291d9b82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

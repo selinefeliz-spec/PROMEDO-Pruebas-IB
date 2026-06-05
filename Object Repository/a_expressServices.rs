@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_expressServices</name>
+   <tag></tag>
+   <elementGuidId>843a4e5f-4415-4cc9-86a2-40145ae544cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#expressServices</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'expressServices']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Servicios Expreso&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08a40b29-eb87-4142-a6cc-828de2cb7186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>expressServices</value>
+      <webElementGuid>07f63361-2c10-4cf4-8598-a0e11e48e556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/onlinebanking/IndividualPayments/PaymentsExpress?_resetCache=False&amp;tabId=&amp;accountFrom=&amp;accountTo=#payments-service-index-tabs-content</value>
+      <webElementGuid>863c22a2-d8a5-4e37-bb63-837a6d168a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>d343bdfd-8f9d-4b0f-966b-14f41b859eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Servicios Expreso</value>
+      <webElementGuid>bf9e5004-6ce9-45cf-a5c2-d09fb5d3ff95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6fa037b6db34c5b5ca007de37c915a5e</value>
+      <webElementGuid>fb168b01-bb86-49b4-bf23-9b8f733635fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'expressServices']</value>
+      <webElementGuid>a895818e-67c5-4084-8c1c-c47ae19f3b78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'expressServices']</value>
+      <webElementGuid>114dff00-8089-427b-9280-e7719a5903d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'expressServices' and @href = '/onlinebanking/IndividualPayments/PaymentsExpress?_resetCache=False&amp;tabId=&amp;accountFrom=&amp;accountTo=#payments-service-index-tabs-content' and (text() = 'Servicios Expreso' or . = 'Servicios Expreso')]</value>
+      <webElementGuid>6e2a06f8-8f7e-477b-842e-f92f2ca5d3ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este flujo es indicando un monto mayor al que tiene la cuenta de origen y deberia dar error</description>
+   <name>TC_TRX_PGSV_SPS_003_MontoInvalido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0886b983-62fe-43cf-bd73-ed1ade78bd9a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flujo para hacer un pago de servicio utilizando una cuenta de origen Europea, deberia dar error</description>
+   <name>TC_TRX_PGSRV_PSP_002_CuentaEuropea</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7516f1e-8f13-4980-849e-2b9ff1a9e43e</testCaseGuid>
+</TestCaseEntity>

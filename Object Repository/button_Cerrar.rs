@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cerrar</name>
+   <tag></tag>
+   <elementGuidId>b45f5521-d92b-486a-886d-60d363943abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payee-info-modal .btn-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#payee-info-modal >> internal:text=&quot;Cerrar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f285af4-998e-453c-b109-362152ab145d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger</value>
+      <webElementGuid>1b6ca90b-e205-4a01-9110-fc8cc30d6447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>d5b76a25-02f5-4cf5-832f-513ec437db87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c11d82e5-18d9-4b34-8eef-c8715278fffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar</value>
+      <webElementGuid>78173da6-00b0-4812-906a-174ea52fcea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dc38e52f564eab56b824327b9f38391e</value>
+      <webElementGuid>6cdba064-4261-4c46-9062-fe160ab59058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>fd204640-581c-4c80-8703-757864abae26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>2d8d9067-0159-4869-8caf-b0f7f9699b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+      <webElementGuid>2abce1c4-193f-4ed0-8ba9-a961129939fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

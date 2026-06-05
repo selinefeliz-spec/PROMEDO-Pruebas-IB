@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flujo para pagar la univerdidad</description>
+   <name>TC_TRX_PGSRV_PSE_001_PagoUniversidad</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce1efc02-ec8c-446a-b7e8-84424f5c6b99</testCaseGuid>
+</TestCaseEntity>
