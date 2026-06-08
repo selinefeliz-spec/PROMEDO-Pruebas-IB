@@ -6,12 +6,16 @@
    <elementGuidId>c593cf57-71c5-4318-ab71-a7858a0ba26f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '#TRANSACTIONS']//div</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[href=&quot;\#TRANSACTIONS&quot;] div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@href = '#TRANSACTIONS']//div</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Transacciones' or . = 'Transacciones')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7b0258b5-d522-4d1b-bf7e-b1dc6bbd0881</webElementGuid>
+      <webElementGuid>189eb021-1cbe-4416-be8b-7dde8ee31efe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Transacciones</value>
-      <webElementGuid>1cce74f3-8050-4fd2-b978-3b754d450c68</webElementGuid>
+      <webElementGuid>beaa3ae5-4aa7-4707-b9ee-d7996a9f1604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-c8650b0de356ef87d60d90e5a66cdab8</value>
-      <webElementGuid>d2d27c38-55fb-4e0b-8145-b6496f542a7e</webElementGuid>
+      <webElementGuid>33073ac4-36c7-4203-ad44-907893a601b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '#TRANSACTIONS']//div</value>
-      <webElementGuid>e2524cf4-dd9e-4fd3-a3ec-bb292bf1982e</webElementGuid>
+      <webElementGuid>741311e0-1d17-491b-998f-e3f6e6c3162e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '#TRANSACTIONS']//div</value>
-      <webElementGuid>666fd9ff-b8f6-430b-9780-600307460e41</webElementGuid>
+      <webElementGuid>48f96d71-3ab5-4ad0-ade4-076fe44591c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +73,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Transacciones' or . = 'Transacciones')]</value>
-      <webElementGuid>7cf9d1de-1ad3-42d5-a478-7a664ca80d26</webElementGuid>
+      <webElementGuid>493d7d04-c189-4243-8e6d-cbab1c8d5d5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

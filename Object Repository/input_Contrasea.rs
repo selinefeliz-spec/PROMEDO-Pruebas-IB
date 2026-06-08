@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_ChallengesRequests_0_Challenges_0_SIICHKAn</name>
+   <name>input_Contrasea</name>
    <tag></tag>
-   <elementGuidId>42634d96-8c1f-4a2a-912e-302e8197a545</elementGuidId>
+   <elementGuidId>755eba49-a353-4061-9831-3bf5d4a95719</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'ChallengesRequests[0].Challenges[0].__SIICHKAnswer']</value>
+         <value>//*[@id = 'PasswordP']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;ChallengesRequests\[0\]\.Challenges\[0\]\.__SIICHKAnswer&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'ChallengesRequests_0__Challenges_0____SIICHKAnswer' and @name = 'ChallengesRequests[0].Challenges[0].__SIICHKAnswer' and @type = 'text']</value>
+         <value>#PasswordP</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#ChallengesRequests_0__Challenges_0____SIICHKAnswer</value>
+         <value>internal:role=textbox[name=&quot;Contraseña&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,31 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e55ff3c0-98ad-43df-9d31-3ed95de0913f</webElementGuid>
+      <webElementGuid>70dd0534-ff2c-40e2-9689-3991c2ad3a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>Password-Addon-Personal</value>
+      <webElementGuid>c7f4bfb3-b24d-4d42-b58d-192b55ac2180</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>new-password</value>
-      <webElementGuid>265a9a4f-339e-4763-aac9-983377cfb13a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autofocus</name>
-      <type>Main</type>
-      <value>autofocus</value>
-      <webElementGuid>e915998a-2657-4767-b5b2-b51f2aad2c47</webElementGuid>
+      <value>off</value>
+      <webElementGuid>41c58446-90bb-4db2-a3d5-b7126ebc46a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8c377ad6-f68c-4746-a78f-ab701bbd8289</webElementGuid>
+      <value>qwerty form-control Password</value>
+      <webElementGuid>c90576e2-540e-4dac-b6aa-57f9510fea74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,86 +61,94 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e135e73c-bde0-4add-8f8d-8391ffe1862e</webElementGuid>
+      <webElementGuid>f69f0c15-5827-4880-83b7-8b2f388e6f72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-regex</name>
       <type>Main</type>
-      <value>El campo 'Respuesta de Seguridad' de tener un mínimo '2' y un máximo de '80' de longitud.</value>
-      <webElementGuid>5d4b7776-8a62-4f66-9992-47b4d4bab464</webElementGuid>
+      <value>El campo 'Contraseña' de tener un mínimo '4' y un máximo de '40' de longitud.</value>
+      <webElementGuid>63dff8f9-60d4-4d1e-9947-96ec0cdf090c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-regex-pattern</name>
       <type>Main</type>
-      <value>^.{2,80}$</value>
-      <webElementGuid>bfdfc269-1b83-4cc4-bf14-6a932fb85ff9</webElementGuid>
+      <value>^.{4,40}$</value>
+      <webElementGuid>7f611eae-ed25-41fc-ac23-28da588e82d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-required</name>
       <type>Main</type>
-      <value>El campo 'Respuesta de Seguridad' es requerido.</value>
-      <webElementGuid>91887fad-32aa-456e-8a7f-1753b1986d9d</webElementGuid>
+      <value>El campo 'Contraseña' es requerido.</value>
+      <webElementGuid>6c7222a1-8499-406c-8fbf-f970807d5ef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ChallengesRequests_0__Challenges_0____SIICHKAnswer</value>
-      <webElementGuid>b6cb6b0a-ee67-4289-847b-81dbea996c45</webElementGuid>
+      <value>PasswordP</value>
+      <webElementGuid>2f283e33-689d-49f6-ab63-c620af1cbb9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ChallengesRequests[0].Challenges[0].__SIICHKAnswer</value>
-      <webElementGuid>078cb507-fb47-4f46-9095-0c29f0c7b37d</webElementGuid>
+      <value>Password</value>
+      <webElementGuid>a9583cd3-b654-4c0f-93ad-7ceab6b3e286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contraseña</value>
+      <webElementGuid>b002456d-5726-4a30-b082-8148dca674e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>b2f6208e-6ef3-4e61-b4c0-5aef85872b7c</webElementGuid>
+      <value>password</value>
+      <webElementGuid>2aeea4ad-5ebb-4ac8-98e3-f62d46dd9442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-d4c29927d25e623d071139d8bbcb9f7b</value>
-      <webElementGuid>9ccbbd80-52b4-46ff-8d70-c34631a2382c</webElementGuid>
+      <value>md5.v1-869659244ba0f3900d452ad371fc7114</value>
+      <webElementGuid>4bb9ab28-6d2c-4828-ba90-ed8f9f7171da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'ChallengesRequests[0].Challenges[0].__SIICHKAnswer']</value>
-      <webElementGuid>61f1f0df-a688-44a3-907d-e03183bf6c55</webElementGuid>
+      <value>//*[@id = 'PasswordP']</value>
+      <webElementGuid>93ca0505-c7bd-48b3-af79-50ead16ba553</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'ChallengesRequests[0].Challenges[0].__SIICHKAnswer']</value>
-      <webElementGuid>0cf67021-1931-4677-9042-72482c0b45d3</webElementGuid>
+      <value>//*[@id = 'PasswordP']</value>
+      <webElementGuid>d13417d1-0c87-4d8d-834c-7afb7f7b9851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'ChallengesRequests_0__Challenges_0____SIICHKAnswer' and @name = 'ChallengesRequests[0].Challenges[0].__SIICHKAnswer' and @type = 'text']</value>
-      <webElementGuid>4944119a-6659-4342-9d1b-ad612931c010</webElementGuid>
+      <value>//input[@id = 'PasswordP' and @name = 'Password' and @placeholder = 'Contraseña' and @type = 'password']</value>
+      <webElementGuid>b9d81c12-c9db-4a1f-9438-8bf4f5558d06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

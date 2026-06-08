@@ -6,12 +6,16 @@
    <elementGuidId>47ceff7b-9e2f-4008-9f20-153c2c1a22f9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@value = 'Continuar']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[value=&quot;Continuar&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@value = 'Continuar']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>94dbeb05-b6c5-4c54-a8a3-fb2360ec808d</webElementGuid>
+      <webElementGuid>ec3bf31b-8a14-42e6-a057-1f7a8be8bce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e2a1a4ca-5237-4165-873e-829b3d3170f2</webElementGuid>
+      <webElementGuid>e60d63be-0aca-40b4-9bf0-38711b6ec16f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>dbe91d00-f377-42bc-a33a-5402fea4299b</webElementGuid>
+      <webElementGuid>e9fe07f8-9d56-4755-8481-ac1c0070c164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Continuar</value>
-      <webElementGuid>22dba160-9ed8-4bb5-9d3c-bb2c5d286964</webElementGuid>
+      <webElementGuid>b7e21fd0-68cd-43bf-a0ec-c3186099fe21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-4f0936289abe38a41ed9e7a4cb686163</value>
-      <webElementGuid>18aa7983-16cc-476d-b77b-70e0497e8a73</webElementGuid>
+      <webElementGuid>05dce0b8-7829-489e-bbe5-d29794d27fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@value = 'Continuar']</value>
-      <webElementGuid>cb233995-ca96-4c0f-9811-e6d1386e5377</webElementGuid>
+      <webElementGuid>06ea0a35-b8fc-4944-afbe-66438ac35a73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@value = 'Continuar']</value>
-      <webElementGuid>4797b324-3fc3-4447-8272-1b31da3b0053</webElementGuid>
+      <webElementGuid>9fa3e0ba-b34b-4fba-a0fc-33bf55ad96f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>6b8f0128-3e8e-4d34-a545-8b09dc8f9f3d</webElementGuid>
+      <webElementGuid>58fad8a7-bf29-474f-85b4-49418c0e4fbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

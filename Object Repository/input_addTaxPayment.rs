@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_frmContinue</name>
+   <name>input_addTaxPayment</name>
    <tag></tag>
-   <elementGuidId>37186ac2-17e6-49c9-a7aa-7e7d16d1ff9c</elementGuidId>
+   <elementGuidId>19c3ada1-a2da-4e1a-8965-41db2e0cfcbe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'frmContinue']</value>
+         <value>//*[@id = 'addTaxPayment']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#frmContinue</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit' and @id = 'frmContinue']</value>
+         <value>#addTaxPayment</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Continuar&quot;i]</value>
+         <value>internal:role=button[name=&quot;Validar y Agregar&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,23 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fea74e04-70d2-4aa1-b526-68bfdd757279</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>75bc67b1-c836-4d20-b46e-a1424eb5a98b</webElementGuid>
+      <webElementGuid>9bf6786c-b51e-4fe0-9fa0-d6a70ba1592a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>frmContinue</value>
-      <webElementGuid>63da99b0-7d80-45c8-9858-f433157191b6</webElementGuid>
+      <value>addTaxPayment</value>
+      <webElementGuid>dc7dcfb0-cd3a-42f9-babc-f4d5c9e2c536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,46 +45,54 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>9a25847a-42eb-438b-b8ba-60f20021fb2e</webElementGuid>
+      <webElementGuid>78dbf6a9-7494-4091-9345-3bd6124ce129</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Continuar</value>
-      <webElementGuid>49d25224-8466-4ad5-a448-fd41357fbd72</webElementGuid>
+      <value>Validar y Agregar</value>
+      <webElementGuid>0235a380-134a-4668-b2da-27ca202cdc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>50f9e42b-2a0f-4a34-93c6-d11ebfe7db49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-634713742577d44ac57c0ed338641ccd</value>
-      <webElementGuid>df59dda3-197a-4602-b665-cdb84c085c83</webElementGuid>
+      <value>md5.v1-fa6e35d63136750c87ccc2ba4490299b</value>
+      <webElementGuid>3972decb-550e-47c3-8d6b-e1bac89ce863</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'frmContinue']</value>
-      <webElementGuid>e8636e0e-baef-43ce-b240-d9b13fd34adc</webElementGuid>
+      <value>//*[@id = 'addTaxPayment']</value>
+      <webElementGuid>78a48063-d251-42b7-b79b-b0ff1fc80257</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'frmContinue']</value>
-      <webElementGuid>3c11bd4e-4e31-4440-8bff-5136fcf08204</webElementGuid>
+      <value>//*[@id = 'addTaxPayment']</value>
+      <webElementGuid>b947420c-11e2-4b15-8795-d954ff71fe45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'frmContinue']</value>
-      <webElementGuid>aa4b784e-d891-43e6-b2f2-3e2db66ddfbe</webElementGuid>
+      <value>//input[@id = 'addTaxPayment' and @type = 'submit']</value>
+      <webElementGuid>d218d815-50ac-40e3-a426-3c302c2e8e3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

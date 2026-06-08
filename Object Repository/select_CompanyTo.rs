@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Cerrar</name>
+   <name>select_CompanyTo</name>
    <tag></tag>
-   <elementGuidId>b45f5521-d92b-486a-886d-60d363943abd</elementGuidId>
+   <elementGuidId>70caf611-8d23-4119-85e4-f41b92c02772</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+         <value>//*[@id = 'CompanyTo']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#payee-info-modal .btn-danger</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+         <value>#CompanyTo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#payee-info-modal >> internal:text=&quot;Cerrar&quot;i</value>
+         <value>#CompanyTo</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,71 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e34754a3-cb81-4152-a339-253f9f09208e</webElementGuid>
+      <value>select</value>
+      <webElementGuid>a62f6856-dac3-4228-bc07-13f7dcc35301</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-danger</value>
-      <webElementGuid>726246ad-fb10-4e4b-bb0e-6bba732cb99a</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>bc6b06af-a41d-4f42-8a0b-534cd677263b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-dismiss</name>
-      <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>03cb4532-9886-4d80-9351-7351b6dafdd0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
+      <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c2b1e4a7-524d-4955-9138-cf48d851fafe</webElementGuid>
+      <webElementGuid>c2202369-3bb7-4c8a-844d-5c2f150d6668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>El campo 'Empresa' es requerido.</value>
+      <webElementGuid>13dbb493-98bc-475a-a286-31ed7308a52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CompanyTo</value>
+      <webElementGuid>69ccde49-5474-4cca-a8d5-19e7da87dae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TaxCompanyTo.CompanySelected</value>
+      <webElementGuid>db359da2-d3e7-471e-adf3-4eb2b91a388a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Cerrar</value>
-      <webElementGuid>41a8deb5-828b-4498-904f-58fabdceb55d</webElementGuid>
+      <value>Seleccione una EmpresaDGADGIITSSINFOTEPDGII_Marbetes</value>
+      <webElementGuid>aacf924f-18d3-4b63-b337-3c4163d46617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-dc38e52f564eab56b824327b9f38391e</value>
-      <webElementGuid>1f4b419a-bc2f-4f99-a615-d8f07609193c</webElementGuid>
+      <value>md5.v1-84c0074f7f0356af183b7cd3870004d3</value>
+      <webElementGuid>bda19e81-a9d8-493a-8673-519f872a29c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
-      <webElementGuid>051d8f4f-f718-4c68-8cad-b5075157ee71</webElementGuid>
+      <value>//*[@id = 'CompanyTo']</value>
+      <webElementGuid>f7959a9f-98e2-4137-8ca1-84244721e914</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
-      <webElementGuid>d745b5f8-1372-4598-85ff-44ce25b7a5ab</webElementGuid>
+      <value>//*[@id = 'CompanyTo']</value>
+      <webElementGuid>9046eafb-6268-44cb-9fb6-6fa5e1cbc97e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
-      <webElementGuid>a42877ed-b053-4a92-bc41-15e3c2c81b3f</webElementGuid>
+      <value>//select[@id = 'CompanyTo' and @name = 'TaxCompanyTo.CompanySelected' and (text() = 'Seleccione una EmpresaDGADGIITSSINFOTEPDGII_Marbetes' or . = 'Seleccione una EmpresaDGADGIITSSINFOTEPDGII_Marbetes')]</value>
+      <webElementGuid>74e0cf5c-41b3-4f1c-b739-b12d156f9aee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

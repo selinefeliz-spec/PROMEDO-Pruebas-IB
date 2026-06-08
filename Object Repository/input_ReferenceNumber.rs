@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Cerrar</name>
+   <name>input_ReferenceNumber</name>
    <tag></tag>
-   <elementGuidId>b45f5521-d92b-486a-886d-60d363943abd</elementGuidId>
+   <elementGuidId>bae7d026-79a9-4d2b-bbb2-3f3ad9f9eef0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+         <value>//*[@id = 'ReferenceNumber']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#payee-info-modal .btn-danger</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+         <value>#ReferenceNumber</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#payee-info-modal >> internal:text=&quot;Cerrar&quot;i</value>
+         <value>#ReferenceNumber</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,71 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e34754a3-cb81-4152-a339-253f9f09208e</webElementGuid>
+      <value>input</value>
+      <webElementGuid>29ebab02-963b-427c-aa0a-889224e0524f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-danger</value>
-      <webElementGuid>726246ad-fb10-4e4b-bb0e-6bba732cb99a</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>666538d0-babc-4b48-a256-906fcf336274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-dismiss</name>
-      <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>03cb4532-9886-4d80-9351-7351b6dafdd0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
+      <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c2b1e4a7-524d-4955-9138-cf48d851fafe</webElementGuid>
+      <webElementGuid>53e0ecf7-1ccc-40ad-85dc-6f192bc8fe22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>El campo 'Referencia' es requerido.</value>
+      <webElementGuid>9112a0cf-1202-485e-b18a-4ca67476bb28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Cerrar</value>
-      <webElementGuid>41a8deb5-828b-4498-904f-58fabdceb55d</webElementGuid>
+      <value>ReferenceNumber</value>
+      <webElementGuid>d0d61d5f-63f9-4ab2-b0c0-da105a7aed71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TaxCompanyTo.ReferenceNumber</value>
+      <webElementGuid>59e89c2b-8677-4c57-ad07-ab8da609f494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c61f3729-2b6d-4149-9632-22e4c42041f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-dc38e52f564eab56b824327b9f38391e</value>
-      <webElementGuid>1f4b419a-bc2f-4f99-a615-d8f07609193c</webElementGuid>
+      <value>md5.v1-c4b1cbeab325b115e86e5fba590640e2</value>
+      <webElementGuid>cdd4ba44-9106-4a5a-8358-bfd6110eb1af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
-      <webElementGuid>051d8f4f-f718-4c68-8cad-b5075157ee71</webElementGuid>
+      <value>//*[@id = 'ReferenceNumber']</value>
+      <webElementGuid>43a1e490-eab8-4c17-9713-76db05b65da7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'payee-info-modal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
-      <webElementGuid>d745b5f8-1372-4598-85ff-44ce25b7a5ab</webElementGuid>
+      <value>//*[@id = 'ReferenceNumber']</value>
+      <webElementGuid>5bfc9803-ba57-4e1c-8882-6fbf73cc0322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
-      <webElementGuid>a42877ed-b053-4a92-bc41-15e3c2c81b3f</webElementGuid>
+      <value>//input[@id = 'ReferenceNumber' and @name = 'TaxCompanyTo.ReferenceNumber' and @type = 'text']</value>
+      <webElementGuid>14a5854b-41a4-4d7f-8131-f1f287ff1a5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

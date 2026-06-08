@@ -6,12 +6,16 @@
    <elementGuidId>c9c72e1c-c373-4e15-8502-2792b08bbd01</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'trx-comment']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#trx-comment</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'trx-comment']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'trx-comment' and @name = 'TaxCompanyTo.Description']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>90c5f00e-54c5-4b56-a0e9-b8bb55be1a52</webElementGuid>
+      <webElementGuid>8fbc5f0c-5434-4f09-8fbb-b7efe28a2d60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control valid</value>
-      <webElementGuid>e80bbd14-ec13-4978-a881-859b1ca1eeaa</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>fb83bac0-b9b5-41b6-b6d9-400bad635e5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>cols</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>4e4e867f-b267-4c97-891e-337afb471891</webElementGuid>
+      <webElementGuid>be7a2dce-c6dc-439b-bdd3-ff0995baa2cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>90b5f034-5327-44bb-a6b5-d770f83ecf61</webElementGuid>
+      <webElementGuid>56cdafb4-393b-48c8-ae29-fb5a90debfb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-val-length</name>
       <type>Main</type>
       <value>La longitud del valor en el campo 'Descripción' es mayor a la permitida de '100' caracteres.</value>
-      <webElementGuid>7bee614f-573f-4a00-84ec-7f0a87d19d27</webElementGuid>
+      <webElementGuid>df45ec3e-a1bd-4345-a10e-06839c4ba67f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>data-val-length-max</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>3577acf7-02ed-4f91-b0d4-d5cfd191ec15</webElementGuid>
+      <webElementGuid>b3f07200-6b32-4ab7-8db2-ddcc5745532e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>data-val-regex</name>
       <type>Main</type>
       <value>El campo 'Descripción' contiene caracteres inválidos.</value>
-      <webElementGuid>f55455c2-e059-454c-9c6b-fa14d6ea1c96</webElementGuid>
+      <webElementGuid>686cc9c0-4ee2-4da4-9480-6d13495078e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>data-val-regex-pattern</name>
       <type>Main</type>
       <value>^[a-zA-Z0-9ñÑáéíóúÁÉÍÓÚ\-., ]*$</value>
-      <webElementGuid>c3b56843-0368-49ff-9eae-fe2c571684fd</webElementGuid>
+      <webElementGuid>b025dc8f-ab6e-457b-890b-fbcc7d17fd2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,15 +97,15 @@
       <name>id</name>
       <type>Main</type>
       <value>trx-comment</value>
-      <webElementGuid>18f300bc-6ce5-4039-9322-22ffe8ec0cc7</webElementGuid>
+      <webElementGuid>d3a3e19a-6e1b-4d80-aeb3-ec706d61969e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>transactionDetails[0].Description</value>
-      <webElementGuid>0ac23877-ef45-4ec1-8656-c182c9b830ba</webElementGuid>
+      <value>TaxCompanyTo.Description</value>
+      <webElementGuid>0193d777-4f59-4cf5-9e50-4d48d824a5ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>4d78dcd4-4783-4434-817c-8c1bceb9db62</webElementGuid>
+      <webElementGuid>f52625e8-d91b-49c0-b44e-042ec7c73c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-63e9e9508563b048293213c0fcfbd24a</value>
-      <webElementGuid>12749ed5-cf79-4996-b78b-d00384cc49ee</webElementGuid>
+      <webElementGuid>66a50f08-2239-485d-bd3d-8c47b50d6aeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'trx-comment']</value>
-      <webElementGuid>03b8e24f-0287-4921-92a2-e04a4a7d8717</webElementGuid>
+      <webElementGuid>884e45ee-c224-460a-aa9e-8db297fe4572</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'trx-comment']</value>
-      <webElementGuid>df6efbd0-2fab-4d92-858a-74d261e94e37</webElementGuid>
+      <webElementGuid>7f2e3012-6bbd-4c00-8694-9dfd26da53c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'trx-comment' and @name = 'TaxCompanyTo.Description']</value>
+      <webElementGuid>06454647-e733-4196-bb04-b2488f4a4291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

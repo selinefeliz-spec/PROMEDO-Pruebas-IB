@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_frmContinue</name>
+   <name>button_Cerrar_1</name>
    <tag></tag>
-   <elementGuidId>37186ac2-17e6-49c9-a7aa-7e7d16d1ff9c</elementGuidId>
+   <elementGuidId>1f13d21f-8463-4569-b034-0e20518532c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'frmContinue']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#frmContinue</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit' and @id = 'frmContinue']</value>
+         <value>.btn-danger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Continuar&quot;i]</value>
+         <value>#sii-modal-error >> internal:text=&quot;Cerrar&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,71 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>fea74e04-70d2-4aa1-b526-68bfdd757279</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>75bc67b1-c836-4d20-b46e-a1424eb5a98b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>frmContinue</value>
-      <webElementGuid>63da99b0-7d80-45c8-9858-f433157191b6</webElementGuid>
+      <value>button</value>
+      <webElementGuid>94cf2fcb-de7f-4d4e-84e4-dae7d67b26da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>9a25847a-42eb-438b-b8ba-60f20021fb2e</webElementGuid>
+      <value>btn btn-danger</value>
+      <webElementGuid>cb1017a9-3c50-48af-9b72-d7b2d04c5f0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>data-dismiss</name>
       <type>Main</type>
-      <value>Continuar</value>
-      <webElementGuid>49d25224-8466-4ad5-a448-fd41357fbd72</webElementGuid>
+      <value>modal</value>
+      <webElementGuid>c35ceecb-2320-4f75-98bc-027601ab62ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>41b3805b-b159-4d4c-8ead-12087e42f395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cerrar</value>
+      <webElementGuid>07bcb094-7271-43e4-bfbb-8a7a5b49af20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-634713742577d44ac57c0ed338641ccd</value>
-      <webElementGuid>df59dda3-197a-4602-b665-cdb84c085c83</webElementGuid>
+      <value>md5.v1-8754e804efe71d54b8d077c8f8c97f46</value>
+      <webElementGuid>e8b68d6a-f69f-4d94-ae12-2279440bf9b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'frmContinue']</value>
-      <webElementGuid>e8636e0e-baef-43ce-b240-d9b13fd34adc</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>9e8ef933-07ee-4f7f-887f-ac31efb522b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'frmContinue']</value>
-      <webElementGuid>3c11bd4e-4e31-4440-8bff-5136fcf08204</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-danger ')]</value>
+      <webElementGuid>31d3cca6-0523-4fa9-bbdb-ecf0ce135c26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'frmContinue']</value>
-      <webElementGuid>aa4b784e-d891-43e6-b2f2-3e2db66ddfbe</webElementGuid>
+      <value>//button[(text() = 'Cerrar' or . = 'Cerrar')]</value>
+      <webElementGuid>77e88367-c840-449b-b727-9971ed4ba8f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
