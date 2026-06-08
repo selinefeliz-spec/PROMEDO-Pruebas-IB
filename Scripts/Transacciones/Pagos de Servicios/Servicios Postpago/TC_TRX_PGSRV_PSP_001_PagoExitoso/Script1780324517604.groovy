@@ -18,7 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.openqa.selenium.WebDriver as WebDriver
 
-
 WebUI.callTestCase(findTestCase('TC_LoginExitoso'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/div_Transacciones'))
@@ -44,10 +43,16 @@ WebUI.waitForElementVisible(findTestObject('Page_Banco Promerica - Banca en Line
 
 WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/i_icon-envelope icon-2x'))
 
-WebUI.setText(findTestObject('Page_Banco Promerica - Banca en Linea/input_Email_VoucherSendEmail_02b9770e37d241b28ca'), 
-    findTestData('Lista_Corresos_PROMEDO').getValue(1, 1))
+if (false) {
+    WebUI.verifyElementVisible(findTestObject('Page_Banco Promerica - Banca en Linea/InfoShowDialogs/ErrorShowDialogs/div_Ha ocurrido un error efectuando una ope_39c5f7'))
 
-WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/input_sendMail_02b9770e37d241b28cabe00ece6a0bd0'))
+    WebUI.click(findTestObject('button_Cerrar'))
+} else {
+    WebUI.setText(findTestObject('Page_Banco Promerica - Banca en Linea/input_Email_VoucherSendEmail_02b9770e37d241b28ca'), 
+        findTestData('Lista_Corresos_PROMEDO').getValue(1, 1))
 
-WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/img_img-logout'))
+    WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/input_sendMail_02b9770e37d241b28cabe00ece6a0bd0'))
+
+    WebUI.click(findTestObject('Page_Banco Promerica - Banca en Linea/img_img-logout'))
+}
 
